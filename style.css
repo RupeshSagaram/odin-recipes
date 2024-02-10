@@ -2,9 +2,9 @@
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color:hsla(36, 100%, 90%, 0.884);
     text-align:left;
-    margin-bottom: 4px;
-    margin-left: 4px;
-    
+    max-width: 800px;
+    margin: 14px auto;
+    padding: 10px auto;
 }
 
 h1{
@@ -60,6 +60,10 @@ a:link{
 
 a:hover{
     color: rgb(104, 104, 104);
+}
+
+a:active {
+    color:hsla(0, 95%, 39%, 0.929);
 }
 
 
